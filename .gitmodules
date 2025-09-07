@@ -1,0 +1,4 @@
+[submodule "test-sub-model_001"]
+	path = test-sub-model_001
+	url = https://github.com/BannariPaviOwn/4bites.git
+	branch = submodule-test-sub-model_001
